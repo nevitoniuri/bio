@@ -279,3 +279,13 @@ input:checked+.slider .efeito-sol {
     margin-left: 10px;
     font-size: 1rem;
 }
+
+.container-fluid {
+    width: 320px;
+    text-align: center;
+}
+
+#arroba {
+    font-style: italic;
+    font-size: small
+}
