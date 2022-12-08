@@ -5,7 +5,7 @@
     --bg-color2: #040404;
     --font-color: #222;
     --font-color-2: #57269f;
-    --font-color-3: #c0c0c0;
+    --font-color-3: #292929;
     --font-color-4: #fff;
 }
 
@@ -133,56 +133,6 @@ section article div h3 {
 }
 
 
-/*Card PIX*/
-
-#pix {
-    max-width: 600px;
-    margin: 25px auto;
-}
-
-#pix article {
-    margin: 20px;
-    background-color: #28a745;
-    padding: 30px;
-    border-radius: 5px;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-}
-
-#pix article h2,
-#pix article p,
-#pix article h4 {
-    color: #fff;
-    font-weight: 600;
-}
-
-#pix article p {
-    margin: 15px 0px;
-    font-size: 1.1rem;
-}
-
-#pix article h4 {
-    margin-bottom: 25px;
-    font-weight: 500;
-    font-size: 1.3rem;
-}
-
-#pix article button {
-    background-color: #1f7533;
-    border: 0;
-    border-radius: 8px;
-    padding: 10px;
-    color: #fff;
-    font-size: 1.1rem;
-    font-weight: 500;
-}
-
-#pix article button:hover {
-    background-color: #185727;
-    cursor: pointer;
-}
-
 
 /*Dark mode*/
 
@@ -283,9 +233,10 @@ input:checked+.slider .efeito-sol {
 .container-fluid {
     width: 320px;
     text-align: center;
+    font-size: larger;
 }
 
 #arroba {
     font-style: italic;
-    font-size: small
+    font-size: large
 }
