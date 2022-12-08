@@ -98,11 +98,6 @@ section article a {
     margin: 10px;
 }
 
-iframe {
-    max-width: 600px;
-    margin: 20px auto 0px auto;
-}
-
 section article div {
     min-height: 100px;
     border-radius: 8px;
@@ -131,7 +126,6 @@ section article div h3 {
     font-size: 16px;
     color: var(--font-color-4);
 }
-
 
 
 /*Dark mode*/
